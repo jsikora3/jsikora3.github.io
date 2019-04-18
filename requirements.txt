@@ -9,7 +9,6 @@
 bqplot\
 numpy\
 matplotlib.pyplot\
-IPython.display\
 matplotlib\
 traitlets\
 ipywidgets\
