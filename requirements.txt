@@ -4,4 +4,3 @@ numpy
 matplotlib
 traitlets
 ipywidgets
-collections
